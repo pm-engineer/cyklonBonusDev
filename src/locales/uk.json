@@ -1,0 +1,79 @@
+{
+  "cyklon" : "Циклон",
+  "sign_in" : "Увійти",
+  "sign_up" : "Зареєструватися",
+  "password" : "Пароль",
+  "forgot_password" : "Відновити пароль",
+  "confirm_password" : "Повторіть пароль",
+  "password_does_not_match" : "Пароль не співпадає",
+  "recover_password" : "Відновити пароль",
+  "recover" : "Відновити",
+  "please_enter_the_code_sent_to_your_number" : "Будь-ласка введіть код відправлено на ваш номер",
+  "confirmation_code" : "Код підтвердження",
+  "verify_code_is_required" : "Введіть код підтвердження",
+  "do_not_have_account_yet" : "Все ше не зареєстровані",
+  "already_registered" : "Вже зареєстровані",
+  "already_have_a_code" : "Вже маєте код",
+  "enter" : "Ввести",
+  "save" : "Зберегти",
+
+  "phone_cannot_be_empty" : "Телефон не може бути пустим",
+  "password_cannot_be_empty" : "Пароль не може бути пустим",
+  "enter_the_correct_phone_number" : "Введіть коректний номер телефону",
+
+
+  "car" : "Легкова",
+  "truck" : "Вантажна",
+
+  "audi": "Audi",
+  "bmw": "Bmw",
+  "mercedes_benz" : "Mercedes Benz",
+  "renault": "Renault",
+  "kia": "Kia",
+  "volvo": "Volvo",
+  "toyota": "Toyota",
+  "nissan": "Nisan",
+  "honda": "Honda",
+  "chevrolet": "Chevrolet",
+  "ford": "Ford",
+  "hyundai": "Hyundai",
+  "gmc": "GMG",
+  "lada": "Lada",
+  "maz": "Maz",
+  "man": "Man",
+  "iveco": "Iveco",
+  "kamaz": "Kamaz",
+  "gaz": "Gaz",
+  "kraz": "Lada",
+
+  "red": "Червоний",
+  "orange": "Оранжевий",
+  "yellow": "Жовтий",
+  "green": "Зелений",
+  "blue": "Синій",
+  "black": "Чорний",
+  "gray": "Сірий",
+
+  "16" : "16",
+  "18" : "18",
+  "20" : "20",
+  "22" : "22",
+  "24" : "24",
+  "26" : "26",
+  "28" : "28",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "" : ""
+}

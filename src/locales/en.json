@@ -1,0 +1,68 @@
+{
+  "cyklon" : "Cyklon",
+  "sign_in" : "Sign In",
+  "sign_up" : "Sign Up",
+  "password" : "Password",
+  "forgot_password" : "Forgot password",
+  "confirm_password" : "Confirm password",
+  "password_does_not_match" : "Password does not match",
+  "recover_password" : "Recover password",
+  "recover" : "Recover",
+  "please_enter_the_code_sent_to_your_number" : "Please enter the code sent to your number",
+  "confirmation_code" : "Confirmation code",
+  "verify_code_is_required" : "Verify code is required",
+  "do_not_have_account_yet" : "Do not have account yet",
+  "already_registered" : "Already registered",
+  "already_have_a_code" : "Already have a code",
+  "enter" : "Enter",
+  "save" : "Save",
+
+  "phone_cannot_be_empty" : "Phone cannot be empty",
+  "password_cannot_be_empty" : "Password cannot be empty",
+  "enter_the_correct_phone_number" : "Enter the correct phone number",
+
+
+
+  "car" : "car",
+  "truck" : "truck",
+
+  "audi": "Audi",
+  "bmw": "Bmw",
+  "mercedes_benz" : "Mercedes Benz",
+  "renault": "Renault",
+  "kia": "Kia",
+  "volvo": "Volvo",
+  "toyota": "Toyota",
+  "nissan": "Nisan",
+  "honda": "Honda",
+  "chevrolet": "Chevrolet",
+  "ford": "Ford",
+  "hyundai": "Hyundai",
+  "gmc": "GMG",
+  "lada": "Lada",
+  "maz": "Maz",
+  "man": "Man",
+  "iveco": "Iveco",
+  "kamaz": "Kamaz",
+  "gaz": "Gaz",
+  "kraz": "Lada",
+
+  "red": "Red",
+  "orange": "Orange",
+  "yellow": "Yellow",
+  "green": "Green",
+  "blue": "Blue",
+  "black": "Black",
+  "gray": "Gray",
+
+  "16" : "16",
+  "18" : "18",
+  "20" : "20",
+  "22" : "22",
+  "24" : "24",
+  "26" : "26",
+  "28" : "28",
+
+
+  "" : ""
+}

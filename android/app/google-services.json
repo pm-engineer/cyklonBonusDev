@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "533143347616",
+    "firebase_url": "https://cyklonrn.firebaseio.com",
+    "project_id": "cyklonrn",
+    "storage_bucket": "cyklonrn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533143347616:android:38cbe710b5bbca83f584c5",
+        "android_client_info": {
+          "package_name": "com.cyklonbonus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533143347616-tpm6in0i38l3diaqfocughorgijg8og4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBgyuyPKa19QkgB89I-lNxUitzs61dHj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533143347616-tpm6in0i38l3diaqfocughorgijg8og4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
